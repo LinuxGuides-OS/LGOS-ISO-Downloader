@@ -8,10 +8,10 @@ Die Versionen stehen aber auch im Downloader selber drinnen.
 
 # Versions-Verlauf
 
-- Downloader 1.0.1 (Downloadet LinuxGuidesOS 21.04:02 Alpha) > Releasedatum: 23.04.2021
-- Downloader 1.1 (^) Änderungen wurden vorgenommen) > Releasedatum: 23.04.2021
-- Downloader 2.0 (^) Änderungen wurden vorgenommen) > Releasedatum: 23.04.2021
-- Downloader 3.0 (^) Rewrite) > Releasedatum: 02.08.2021
+- Downloader 1.0.1 - Main Release (Downloadet LinuxGuidesOS 21.04:02 Alpha) > Releasedatum: 23.04.2021
+- Downloader 1.1 - Änderungen wurden vorgenommen > Releasedatum: 23.04.2021
+- Downloader 2.0 - Änderungen wurden vorgenommen > Releasedatum: 23.04.2021
+- Downloader 3.0 - Rewrite > Releasedatum: 02.08.2021
 
 
 
